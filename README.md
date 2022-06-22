@@ -1,9 +1,5 @@
-### Hi there 👋
-
 <!--
-**eug/eug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eug&show_icons=true&theme=tokyonight&count_private=true&hide=contribs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eug&layout=compact&hide=matlab,css,html&theme=tokyonight"/>
+</div>
