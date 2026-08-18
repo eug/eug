@@ -18,10 +18,11 @@
 </div>
     
 <br />
-
+<!--
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eug&show_icons=true&theme=tokyonight&count_private=true&hide=contribs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eug&layout=compact&hide=matlab,css,html&theme=tokyonight"/>
 </div>
 
 <img height="160em" src="https://github.com/eug/eug/blob/output/github-contribution-grid-snake.svg"/>
+-->
